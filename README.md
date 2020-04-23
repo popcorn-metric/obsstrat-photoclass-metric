@@ -3,6 +3,9 @@ LSST observation strategy evaluation with photo classification metric
 
 - Generate SNIa light-curves with given observing strategy using Kyle Boone's notebook (based on LSST MAF framework). Modification allows to dump these simulations as a .csv file similar to PLAsTiCC challenge.
 
+
+
+# Deprecated (already incorporated with SNN on the fly on sim_class_w_snn_maf.ipynb) _______ 
 - If you want to obtain predictions
 	- Clone SuperNNova https://github.com/supernnova/SuperNNova.git and setup environment
 
